@@ -1,0 +1,1001 @@
+cve_id,description,cvss_score,severity_label
+CVE-2023-1000,The application suffers from spoofing which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1001,An attacker can exploit a denial of service vulnerability to compromise the system.,8.2,High
+CVE-2023-1002,The application suffers from bypass which may lead to sensitive data leaks.,4.0,Medium
+CVE-2023-1003,A minor issue related to deprecated algorithm was discovered.,2.7,Low
+CVE-2023-1004,An attacker can exploit a dos vulnerability to compromise the system.,8.6,High
+CVE-2023-1005,The application suffers from spoofing which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1006,The application suffers from spoofing which may lead to sensitive data leaks.,6.0,Medium
+CVE-2023-1007,"A minor issue related to version exposure was discovered. However, it requires physical access and user interaction.",9.5,Low
+CVE-2023-1008,The application suffers from directory traversal which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1009,An attacker can exploit a dos vulnerability to compromise the system.,8.1,High
+CVE-2023-1010,A minor issue related to local access was discovered.,3.6,Low
+CVE-2023-1011,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.7,High
+CVE-2023-1012,"A minor issue related to deprecated algorithm was discovered. However, it requires physical access and user interaction.",9.9,Low
+CVE-2023-1013,The application suffers from bypass which may lead to sensitive data leaks.,5.0,Medium
+CVE-2023-1014,A vulnerability allows remote code execution via crafted payload.,9.9,Critical
+CVE-2023-1015,The application suffers from spoofing which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1016,The application suffers from spoofing which may lead to sensitive data leaks.,5.9,Medium
+CVE-2023-1017,The application suffers from directory traversal which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1018,A minor issue related to version exposure was discovered.,3.2,Low
+CVE-2023-1019,An attacker can exploit a xss vulnerability to compromise the system.,7.9,High
+CVE-2023-1020,A vulnerability allows remote code execution via crafted payload.,9.0,Critical
+CVE-2023-1021,A vulnerability allows sql injection via crafted payload.,10.0,Critical
+CVE-2023-1022,A vulnerability allows rce via crafted payload.,9.5,Critical
+CVE-2023-1023,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.8,High
+CVE-2023-1024,The application suffers from csrf which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1025,An attacker can exploit a xss vulnerability to compromise the system.,8.6,High
+CVE-2023-1026,An attacker can exploit a denial of service vulnerability to compromise the system.,7.9,High
+CVE-2023-1027,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.8,High
+CVE-2023-1028,A minor issue related to complex setup was discovered.,2.6,Low
+CVE-2023-1029,The application suffers from information disclosure which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1030,A vulnerability allows default password via crafted payload.,9.2,Critical
+CVE-2023-1031,The application suffers from bypass which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1032,"The application suffers from bypass which may lead to sensitive data leaks. However, it requires physical access and user interaction.",8.4,Low
+CVE-2023-1033,The application suffers from bypass which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1034,The application suffers from bypass which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1035,An attacker can exploit a xss vulnerability to compromise the system.,8.4,High
+CVE-2023-1036,An attacker can exploit a xss vulnerability to compromise the system.,7.6,High
+CVE-2023-1037,The application suffers from information disclosure which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1038,A minor issue related to minor ui bug was discovered.,1.9,Low
+CVE-2023-1039,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.7,High
+CVE-2023-1040,A minor issue related to deprecated algorithm was discovered.,1.5,Low
+CVE-2023-1041,The application suffers from csrf which may lead to sensitive data leaks.,5.3,Medium
+CVE-2023-1042,The application suffers from directory traversal which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1043,The application suffers from csrf which may lead to sensitive data leaks.,6.0,Medium
+CVE-2023-1044,A vulnerability allows remote code execution via crafted payload.,9.6,Critical
+CVE-2023-1045,An attacker can exploit a denial of service vulnerability to compromise the system.,8.0,High
+CVE-2023-1046,A vulnerability allows remote code execution via crafted payload.,9.6,Critical
+CVE-2023-1047,The application suffers from directory traversal which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1048,The application suffers from bypass which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1049,The application suffers from csrf which may lead to sensitive data leaks.,5.3,Medium
+CVE-2023-1050,The application suffers from spoofing which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1051,A minor issue related to local access was discovered.,3.4,Low
+CVE-2023-1052,A minor issue related to complex setup was discovered.,2.6,Low
+CVE-2023-1053,The application suffers from spoofing which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1054,The application suffers from spoofing which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1055,The application suffers from directory traversal which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1056,The application suffers from csrf which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1057,The application suffers from directory traversal which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1058,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.9,High
+CVE-2023-1059,A minor issue related to minor ui bug was discovered.,2.1,Low
+CVE-2023-1060,A minor issue related to local access was discovered.,3.3,Low
+CVE-2023-1061,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.3,High
+CVE-2023-1062,An attacker can exploit a xss vulnerability to compromise the system.,8.1,High
+CVE-2023-1063,The application suffers from directory traversal which may lead to sensitive data leaks.,5.6,Medium
+CVE-2023-1064,The application suffers from csrf which may lead to sensitive data leaks.,5.9,Medium
+CVE-2023-1065,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.2,High
+CVE-2023-1066,The application suffers from csrf which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1067,"An attacker can exploit a buffer overflow vulnerability to compromise the system. However, it requires physical access and user interaction.",7.8,Low
+CVE-2023-1068,A minor issue related to complex setup was discovered.,1.2,Low
+CVE-2023-1069,The application suffers from bypass which may lead to sensitive data leaks.,5.0,Medium
+CVE-2023-1070,A vulnerability allows root privilege via crafted payload.,9.3,Critical
+CVE-2023-1071,A vulnerability allows sql injection via crafted payload.,9.4,Critical
+CVE-2023-1072,The application suffers from directory traversal which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1073,The application suffers from spoofing which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1074,The application suffers from csrf which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1075,A vulnerability allows rce via crafted payload.,9.1,Critical
+CVE-2023-1076,The application suffers from spoofing which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1077,"The application suffers from bypass which may lead to sensitive data leaks. However, it requires physical access and user interaction.",9.8,Low
+CVE-2023-1078,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.5,High
+CVE-2023-1079,The application suffers from directory traversal which may lead to sensitive data leaks.,4.7,Medium
+CVE-2023-1080,The application suffers from bypass which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1081,The application suffers from directory traversal which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1082,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.2,High
+CVE-2023-1083,A minor issue related to complex setup was discovered.,1.6,Low
+CVE-2023-1084,A vulnerability allows unauthenticated via crafted payload.,9.1,Critical
+CVE-2023-1085,The application suffers from bypass which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1086,An attacker can exploit a denial of service vulnerability to compromise the system.,7.9,High
+CVE-2023-1087,A vulnerability allows sql injection via crafted payload.,9.4,Critical
+CVE-2023-1088,"An attacker can exploit a cross-site scripting vulnerability to compromise the system. However, it requires physical access and user interaction.",9.5,Low
+CVE-2023-1089,An attacker can exploit a denial of service vulnerability to compromise the system.,7.6,High
+CVE-2023-1090,The application suffers from information disclosure which may lead to sensitive data leaks.,6.0,Medium
+CVE-2023-1091,The application suffers from information disclosure which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1092,A minor issue related to version exposure was discovered.,2.2,Low
+CVE-2023-1093,A minor issue related to version exposure was discovered.,2.9,Low
+CVE-2023-1094,An attacker can exploit a denial of service vulnerability to compromise the system.,8.0,High
+CVE-2023-1095,An attacker can exploit a dos vulnerability to compromise the system.,8.0,High
+CVE-2023-1096,The application suffers from bypass which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1097,A minor issue related to complex setup was discovered.,3.5,Low
+CVE-2023-1098,An attacker can exploit a dos vulnerability to compromise the system.,8.1,High
+CVE-2023-1099,A minor issue related to complex setup was discovered.,2.5,Low
+CVE-2023-1100,The application suffers from information disclosure which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1101,The application suffers from directory traversal which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1102,A vulnerability allows root privilege via crafted payload.,9.8,Critical
+CVE-2023-1103,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.9,High
+CVE-2023-1104,An attacker can exploit a dos vulnerability to compromise the system.,8.2,High
+CVE-2023-1105,A vulnerability allows remote code execution via crafted payload.,9.3,Critical
+CVE-2023-1106,A minor issue related to version exposure was discovered.,1.4,Low
+CVE-2023-1107,An attacker can exploit a dos vulnerability to compromise the system.,8.8,High
+CVE-2023-1108,An attacker can exploit a dos vulnerability to compromise the system.,8.4,High
+CVE-2023-1109,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.7,High
+CVE-2023-1110,A minor issue related to complex setup was discovered.,2.8,Low
+CVE-2023-1111,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.1,High
+CVE-2023-1112,The application suffers from information disclosure which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1113,The application suffers from information disclosure which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1114,The application suffers from bypass which may lead to sensitive data leaks.,5.0,Medium
+CVE-2023-1115,The application suffers from spoofing which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1116,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.5,High
+CVE-2023-1117,An attacker can exploit a dos vulnerability to compromise the system.,7.6,High
+CVE-2023-1118,The application suffers from directory traversal which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1119,The application suffers from spoofing which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1120,The application suffers from information disclosure which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1121,"A vulnerability allows remote code execution via crafted payload. However, it requires physical access and user interaction.",9.1,Low
+CVE-2023-1122,A minor issue related to version exposure was discovered.,1.0,Low
+CVE-2023-1123,An attacker can exploit a xss vulnerability to compromise the system.,8.0,High
+CVE-2023-1124,A vulnerability allows rce via crafted payload.,9.6,Critical
+CVE-2023-1125,A vulnerability allows sql injection via crafted payload.,9.7,Critical
+CVE-2023-1126,The application suffers from bypass which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1127,A minor issue related to version exposure was discovered.,1.1,Low
+CVE-2023-1128,An attacker can exploit a xss vulnerability to compromise the system.,8.1,High
+CVE-2023-1129,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.7,High
+CVE-2023-1130,A vulnerability allows default password via crafted payload.,9.9,Critical
+CVE-2023-1131,A vulnerability allows default password via crafted payload.,9.9,Critical
+CVE-2023-1132,An attacker can exploit a dos vulnerability to compromise the system.,7.6,High
+CVE-2023-1133,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.2,High
+CVE-2023-1134,"An attacker can exploit a xss vulnerability to compromise the system. However, it requires physical access and user interaction.",8.2,Low
+CVE-2023-1135,A vulnerability allows unauthenticated via crafted payload.,9.7,Critical
+CVE-2023-1136,A vulnerability allows default password via crafted payload.,9.9,Critical
+CVE-2023-1137,The application suffers from directory traversal which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1138,A minor issue related to minor ui bug was discovered.,2.4,Low
+CVE-2023-1139,A minor issue related to deprecated algorithm was discovered.,1.8,Low
+CVE-2023-1140,The application suffers from directory traversal which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1141,A minor issue related to local access was discovered.,2.5,Low
+CVE-2023-1142,A vulnerability allows rce via crafted payload.,9.2,Critical
+CVE-2023-1143,A vulnerability allows rce via crafted payload.,9.7,Critical
+CVE-2023-1144,A vulnerability allows unauthenticated via crafted payload.,9.1,Critical
+CVE-2023-1145,A minor issue related to version exposure was discovered.,2.6,Low
+CVE-2023-1146,A minor issue related to complex setup was discovered.,3.2,Low
+CVE-2023-1147,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.1,High
+CVE-2023-1148,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.5,High
+CVE-2023-1149,A vulnerability allows rce via crafted payload.,9.5,Critical
+CVE-2023-1150,A minor issue related to local access was discovered.,1.9,Low
+CVE-2023-1151,The application suffers from information disclosure which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1152,A minor issue related to minor ui bug was discovered.,2.1,Low
+CVE-2023-1153,A minor issue related to complex setup was discovered.,2.2,Low
+CVE-2023-1154,A minor issue related to complex setup was discovered.,3.2,Low
+CVE-2023-1155,The application suffers from directory traversal which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1156,A minor issue related to version exposure was discovered.,3.7,Low
+CVE-2023-1157,A minor issue related to version exposure was discovered.,2.8,Low
+CVE-2023-1158,The application suffers from directory traversal which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1159,A minor issue related to complex setup was discovered.,1.4,Low
+CVE-2023-1160,An attacker can exploit a dos vulnerability to compromise the system.,7.4,High
+CVE-2023-1161,The application suffers from spoofing which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1162,An attacker can exploit a dos vulnerability to compromise the system.,7.5,High
+CVE-2023-1163,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.6,High
+CVE-2023-1164,An attacker can exploit a dos vulnerability to compromise the system.,7.3,High
+CVE-2023-1165,An attacker can exploit a dos vulnerability to compromise the system.,8.4,High
+CVE-2023-1166,A vulnerability allows rce via crafted payload.,10.0,Critical
+CVE-2023-1167,A vulnerability allows unauthenticated via crafted payload.,9.6,Critical
+CVE-2023-1168,A vulnerability allows remote code execution via crafted payload.,9.2,Critical
+CVE-2023-1169,A vulnerability allows remote code execution via crafted payload.,9.1,Critical
+CVE-2023-1170,A vulnerability allows root privilege via crafted payload.,9.8,Critical
+CVE-2023-1171,A minor issue related to version exposure was discovered.,1.2,Low
+CVE-2023-1172,The application suffers from bypass which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1173,The application suffers from information disclosure which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1174,The application suffers from spoofing which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1175,The application suffers from csrf which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1176,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.5,High
+CVE-2023-1177,The application suffers from directory traversal which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1178,A minor issue related to complex setup was discovered.,1.7,Low
+CVE-2023-1179,An attacker can exploit a xss vulnerability to compromise the system.,8.6,High
+CVE-2023-1180,The application suffers from bypass which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1181,A minor issue related to local access was discovered.,2.0,Low
+CVE-2023-1182,The application suffers from bypass which may lead to sensitive data leaks.,5.9,Medium
+CVE-2023-1183,The application suffers from spoofing which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1184,"The application suffers from directory traversal which may lead to sensitive data leaks. However, it requires physical access and user interaction.",7.8,Low
+CVE-2023-1185,The application suffers from csrf which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1186,A vulnerability allows unauthenticated via crafted payload.,9.4,Critical
+CVE-2023-1187,A minor issue related to deprecated algorithm was discovered.,3.2,Low
+CVE-2023-1188,A vulnerability allows root privilege via crafted payload.,9.1,Critical
+CVE-2023-1189,A minor issue related to version exposure was discovered.,3.5,Low
+CVE-2023-1190,"A vulnerability allows root privilege via crafted payload. However, it requires physical access and user interaction.",7.3,Low
+CVE-2023-1191,An attacker can exploit a xss vulnerability to compromise the system.,7.1,High
+CVE-2023-1192,The application suffers from directory traversal which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1193,A vulnerability allows sql injection via crafted payload.,9.0,Critical
+CVE-2023-1194,The application suffers from bypass which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1195,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.4,High
+CVE-2023-1196,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.3,High
+CVE-2023-1197,The application suffers from directory traversal which may lead to sensitive data leaks.,5.6,Medium
+CVE-2023-1198,The application suffers from bypass which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1199,A vulnerability allows default password via crafted payload.,9.0,Critical
+CVE-2023-1200,A minor issue related to minor ui bug was discovered.,2.5,Low
+CVE-2023-1201,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.3,High
+CVE-2023-1202,An attacker can exploit a denial of service vulnerability to compromise the system.,7.9,High
+CVE-2023-1203,An attacker can exploit a xss vulnerability to compromise the system.,8.7,High
+CVE-2023-1204,"The application suffers from information disclosure which may lead to sensitive data leaks. However, it requires physical access and user interaction.",7.4,Low
+CVE-2023-1205,A minor issue related to complex setup was discovered.,1.2,Low
+CVE-2023-1206,A minor issue related to minor ui bug was discovered.,2.3,Low
+CVE-2023-1207,A minor issue related to local access was discovered.,2.4,Low
+CVE-2023-1208,The application suffers from csrf which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1209,The application suffers from spoofing which may lead to sensitive data leaks.,4.0,Medium
+CVE-2023-1210,The application suffers from spoofing which may lead to sensitive data leaks.,5.3,Medium
+CVE-2023-1211,The application suffers from spoofing which may lead to sensitive data leaks.,5.6,Medium
+CVE-2023-1212,The application suffers from csrf which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1213,A minor issue related to minor ui bug was discovered.,2.1,Low
+CVE-2023-1214,An attacker can exploit a dos vulnerability to compromise the system.,8.6,High
+CVE-2023-1215,The application suffers from csrf which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1216,The application suffers from bypass which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1217,The application suffers from information disclosure which may lead to sensitive data leaks.,6.0,Medium
+CVE-2023-1218,The application suffers from csrf which may lead to sensitive data leaks.,5.9,Medium
+CVE-2023-1219,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.2,High
+CVE-2023-1220,The application suffers from spoofing which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1221,The application suffers from spoofing which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1222,A minor issue related to local access was discovered.,1.2,Low
+CVE-2023-1223,An attacker can exploit a dos vulnerability to compromise the system.,8.5,High
+CVE-2023-1224,A minor issue related to local access was discovered.,2.0,Low
+CVE-2023-1225,A minor issue related to minor ui bug was discovered.,2.5,Low
+CVE-2023-1226,An attacker can exploit a xss vulnerability to compromise the system.,7.7,High
+CVE-2023-1227,A minor issue related to minor ui bug was discovered.,1.9,Low
+CVE-2023-1228,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.6,High
+CVE-2023-1229,An attacker can exploit a dos vulnerability to compromise the system.,7.6,High
+CVE-2023-1230,The application suffers from information disclosure which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1231,"A minor issue related to local access was discovered. However, it requires physical access and user interaction.",8.9,Low
+CVE-2023-1232,The application suffers from directory traversal which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1233,A vulnerability allows default password via crafted payload.,9.2,Critical
+CVE-2023-1234,The application suffers from information disclosure which may lead to sensitive data leaks.,6.9,Medium
+CVE-2023-1235,The application suffers from information disclosure which may lead to sensitive data leaks.,5.9,Medium
+CVE-2023-1236,A minor issue related to complex setup was discovered.,2.1,Low
+CVE-2023-1237,An attacker can exploit a xss vulnerability to compromise the system.,7.3,High
+CVE-2023-1238,The application suffers from spoofing which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1239,The application suffers from directory traversal which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1240,An attacker can exploit a dos vulnerability to compromise the system.,7.1,High
+CVE-2023-1241,"A vulnerability allows unauthenticated via crafted payload. However, it requires physical access and user interaction.",10.0,Low
+CVE-2023-1242,The application suffers from csrf which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1243,The application suffers from directory traversal which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1244,"A vulnerability allows rce via crafted payload. However, it requires physical access and user interaction.",7.6,Low
+CVE-2023-1245,The application suffers from directory traversal which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1246,An attacker can exploit a denial of service vulnerability to compromise the system.,7.5,High
+CVE-2023-1247,A minor issue related to local access was discovered.,1.4,Low
+CVE-2023-1248,A vulnerability allows default password via crafted payload.,9.5,Critical
+CVE-2023-1249,The application suffers from bypass which may lead to sensitive data leaks.,6.0,Medium
+CVE-2023-1250,A minor issue related to deprecated algorithm was discovered.,2.5,Low
+CVE-2023-1251,The application suffers from spoofing which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1252,A minor issue related to deprecated algorithm was discovered.,3.9,Low
+CVE-2023-1253,The application suffers from directory traversal which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1254,An attacker can exploit a dos vulnerability to compromise the system.,7.3,High
+CVE-2023-1255,"An attacker can exploit a xss vulnerability to compromise the system. However, it requires physical access and user interaction.",9.7,Low
+CVE-2023-1256,An attacker can exploit a denial of service vulnerability to compromise the system.,7.9,High
+CVE-2023-1257,A minor issue related to complex setup was discovered.,1.4,Low
+CVE-2023-1258,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.8,High
+CVE-2023-1259,A vulnerability allows unauthenticated via crafted payload.,10.0,Critical
+CVE-2023-1260,The application suffers from information disclosure which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1261,The application suffers from csrf which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1262,A minor issue related to deprecated algorithm was discovered.,2.4,Low
+CVE-2023-1263,A vulnerability allows unauthenticated via crafted payload.,9.3,Critical
+CVE-2023-1264,The application suffers from spoofing which may lead to sensitive data leaks.,4.0,Medium
+CVE-2023-1265,The application suffers from information disclosure which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1266,A vulnerability allows default password via crafted payload.,9.1,Critical
+CVE-2023-1267,The application suffers from spoofing which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1268,An attacker can exploit a dos vulnerability to compromise the system.,7.2,High
+CVE-2023-1269,The application suffers from spoofing which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1270,An attacker can exploit a denial of service vulnerability to compromise the system.,7.9,High
+CVE-2023-1271,The application suffers from directory traversal which may lead to sensitive data leaks.,5.9,Medium
+CVE-2023-1272,The application suffers from directory traversal which may lead to sensitive data leaks.,4.7,Medium
+CVE-2023-1273,A vulnerability allows unauthenticated via crafted payload.,9.8,Critical
+CVE-2023-1274,A vulnerability allows default password via crafted payload.,9.0,Critical
+CVE-2023-1275,An attacker can exploit a dos vulnerability to compromise the system.,7.6,High
+CVE-2023-1276,The application suffers from csrf which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1277,The application suffers from csrf which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1278,The application suffers from spoofing which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1279,The application suffers from information disclosure which may lead to sensitive data leaks.,6.6,Medium
+CVE-2023-1280,A vulnerability allows unauthenticated via crafted payload.,9.9,Critical
+CVE-2023-1281,An attacker can exploit a denial of service vulnerability to compromise the system.,8.7,High
+CVE-2023-1282,The application suffers from information disclosure which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1283,The application suffers from information disclosure which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1284,The application suffers from spoofing which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1285,The application suffers from directory traversal which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1286,The application suffers from spoofing which may lead to sensitive data leaks.,5.6,Medium
+CVE-2023-1287,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.9,High
+CVE-2023-1288,The application suffers from information disclosure which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1289,An attacker can exploit a xss vulnerability to compromise the system.,7.7,High
+CVE-2023-1290,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.3,High
+CVE-2023-1291,An attacker can exploit a xss vulnerability to compromise the system.,7.0,High
+CVE-2023-1292,A vulnerability allows default password via crafted payload.,9.1,Critical
+CVE-2023-1293,The application suffers from directory traversal which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1294,A minor issue related to version exposure was discovered.,3.7,Low
+CVE-2023-1295,A vulnerability allows sql injection via crafted payload.,9.8,Critical
+CVE-2023-1296,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.1,High
+CVE-2023-1297,The application suffers from directory traversal which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1298,The application suffers from information disclosure which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1299,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.4,High
+CVE-2023-1300,A vulnerability allows sql injection via crafted payload.,9.6,Critical
+CVE-2023-1301,A vulnerability allows unauthenticated via crafted payload.,9.3,Critical
+CVE-2023-1302,"A minor issue related to version exposure was discovered. However, it requires physical access and user interaction.",9.1,Low
+CVE-2023-1303,The application suffers from directory traversal which may lead to sensitive data leaks.,5.6,Medium
+CVE-2023-1304,A vulnerability allows sql injection via crafted payload.,9.9,Critical
+CVE-2023-1305,The application suffers from spoofing which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1306,A vulnerability allows remote code execution via crafted payload.,9.6,Critical
+CVE-2023-1307,The application suffers from directory traversal which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1308,A vulnerability allows unauthenticated via crafted payload.,9.1,Critical
+CVE-2023-1309,A minor issue related to minor ui bug was discovered.,1.8,Low
+CVE-2023-1310,A minor issue related to local access was discovered.,3.1,Low
+CVE-2023-1311,A minor issue related to local access was discovered.,1.7,Low
+CVE-2023-1312,The application suffers from bypass which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1313,A vulnerability allows root privilege via crafted payload.,9.9,Critical
+CVE-2023-1314,The application suffers from spoofing which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1315,The application suffers from csrf which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1316,The application suffers from bypass which may lead to sensitive data leaks.,4.0,Medium
+CVE-2023-1317,The application suffers from csrf which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1318,A vulnerability allows sql injection via crafted payload.,10.0,Critical
+CVE-2023-1319,"The application suffers from directory traversal which may lead to sensitive data leaks. However, it requires physical access and user interaction.",9.3,Low
+CVE-2023-1320,The application suffers from bypass which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1321,A minor issue related to complex setup was discovered.,3.8,Low
+CVE-2023-1322,The application suffers from information disclosure which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1323,A minor issue related to complex setup was discovered.,2.9,Low
+CVE-2023-1324,A minor issue related to minor ui bug was discovered.,2.8,Low
+CVE-2023-1325,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.9,High
+CVE-2023-1326,The application suffers from information disclosure which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1327,A vulnerability allows root privilege via crafted payload.,9.7,Critical
+CVE-2023-1328,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.6,High
+CVE-2023-1329,The application suffers from spoofing which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1330,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.3,High
+CVE-2023-1331,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.7,High
+CVE-2023-1332,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.8,High
+CVE-2023-1333,The application suffers from spoofing which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1334,The application suffers from csrf which may lead to sensitive data leaks.,5.6,Medium
+CVE-2023-1335,An attacker can exploit a denial of service vulnerability to compromise the system.,7.8,High
+CVE-2023-1336,"The application suffers from information disclosure which may lead to sensitive data leaks. However, it requires physical access and user interaction.",9.0,Low
+CVE-2023-1337,A minor issue related to deprecated algorithm was discovered.,2.0,Low
+CVE-2023-1338,A minor issue related to complex setup was discovered.,1.7,Low
+CVE-2023-1339,The application suffers from spoofing which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1340,The application suffers from directory traversal which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1341,The application suffers from directory traversal which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1342,"A vulnerability allows rce via crafted payload. However, it requires physical access and user interaction.",8.1,Low
+CVE-2023-1343,An attacker can exploit a denial of service vulnerability to compromise the system.,8.5,High
+CVE-2023-1344,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.3,High
+CVE-2023-1345,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.2,High
+CVE-2023-1346,The application suffers from information disclosure which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1347,"The application suffers from csrf which may lead to sensitive data leaks. However, it requires physical access and user interaction.",8.3,Low
+CVE-2023-1348,The application suffers from spoofing which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1349,The application suffers from csrf which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1350,The application suffers from csrf which may lead to sensitive data leaks.,4.0,Medium
+CVE-2023-1351,A minor issue related to deprecated algorithm was discovered.,1.5,Low
+CVE-2023-1352,The application suffers from csrf which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1353,The application suffers from spoofing which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1354,The application suffers from directory traversal which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1355,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.0,High
+CVE-2023-1356,A vulnerability allows unauthenticated via crafted payload.,9.6,Critical
+CVE-2023-1357,A vulnerability allows default password via crafted payload.,9.3,Critical
+CVE-2023-1358,The application suffers from csrf which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1359,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.3,High
+CVE-2023-1360,A minor issue related to deprecated algorithm was discovered.,2.3,Low
+CVE-2023-1361,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.6,High
+CVE-2023-1362,A vulnerability allows sql injection via crafted payload.,9.5,Critical
+CVE-2023-1363,The application suffers from spoofing which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1364,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.9,High
+CVE-2023-1365,An attacker can exploit a xss vulnerability to compromise the system.,7.4,High
+CVE-2023-1366,The application suffers from bypass which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1367,A vulnerability allows root privilege via crafted payload.,9.3,Critical
+CVE-2023-1368,An attacker can exploit a denial of service vulnerability to compromise the system.,7.0,High
+CVE-2023-1369,A vulnerability allows sql injection via crafted payload.,9.5,Critical
+CVE-2023-1370,The application suffers from bypass which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1371,The application suffers from information disclosure which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1372,A vulnerability allows sql injection via crafted payload.,9.3,Critical
+CVE-2023-1373,A minor issue related to local access was discovered.,3.8,Low
+CVE-2023-1374,An attacker can exploit a denial of service vulnerability to compromise the system.,8.8,High
+CVE-2023-1375,The application suffers from information disclosure which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1376,A minor issue related to minor ui bug was discovered.,3.7,Low
+CVE-2023-1377,A minor issue related to version exposure was discovered.,1.1,Low
+CVE-2023-1378,An attacker can exploit a denial of service vulnerability to compromise the system.,8.9,High
+CVE-2023-1379,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.1,High
+CVE-2023-1380,A minor issue related to local access was discovered.,2.1,Low
+CVE-2023-1381,The application suffers from csrf which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1382,The application suffers from directory traversal which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1383,A vulnerability allows rce via crafted payload.,10.0,Critical
+CVE-2023-1384,A minor issue related to complex setup was discovered.,1.1,Low
+CVE-2023-1385,The application suffers from spoofing which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1386,A minor issue related to minor ui bug was discovered.,2.0,Low
+CVE-2023-1387,The application suffers from bypass which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1388,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.7,High
+CVE-2023-1389,The application suffers from csrf which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1390,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.5,High
+CVE-2023-1391,"A vulnerability allows default password via crafted payload. However, it requires physical access and user interaction.",8.8,Low
+CVE-2023-1392,The application suffers from information disclosure which may lead to sensitive data leaks.,5.0,Medium
+CVE-2023-1393,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.6,High
+CVE-2023-1394,The application suffers from spoofing which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1395,The application suffers from spoofing which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1396,The application suffers from spoofing which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1397,A vulnerability allows root privilege via crafted payload.,9.5,Critical
+CVE-2023-1398,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.8,High
+CVE-2023-1399,An attacker can exploit a denial of service vulnerability to compromise the system.,8.4,High
+CVE-2023-1400,An attacker can exploit a dos vulnerability to compromise the system.,7.1,High
+CVE-2023-1401,The application suffers from spoofing which may lead to sensitive data leaks.,5.9,Medium
+CVE-2023-1402,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.0,High
+CVE-2023-1403,An attacker can exploit a xss vulnerability to compromise the system.,8.3,High
+CVE-2023-1404,A minor issue related to deprecated algorithm was discovered.,1.5,Low
+CVE-2023-1405,The application suffers from bypass which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1406,A vulnerability allows root privilege via crafted payload.,9.4,Critical
+CVE-2023-1407,The application suffers from directory traversal which may lead to sensitive data leaks.,6.0,Medium
+CVE-2023-1408,A minor issue related to deprecated algorithm was discovered.,1.7,Low
+CVE-2023-1409,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.4,High
+CVE-2023-1410,An attacker can exploit a xss vulnerability to compromise the system.,7.8,High
+CVE-2023-1411,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.0,High
+CVE-2023-1412,A vulnerability allows root privilege via crafted payload.,9.9,Critical
+CVE-2023-1413,The application suffers from directory traversal which may lead to sensitive data leaks.,5.3,Medium
+CVE-2023-1414,A minor issue related to local access was discovered.,2.5,Low
+CVE-2023-1415,The application suffers from information disclosure which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1416,A vulnerability allows root privilege via crafted payload.,9.0,Critical
+CVE-2023-1417,A minor issue related to minor ui bug was discovered.,1.1,Low
+CVE-2023-1418,An attacker can exploit a dos vulnerability to compromise the system.,8.3,High
+CVE-2023-1419,The application suffers from bypass which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1420,A minor issue related to version exposure was discovered.,1.6,Low
+CVE-2023-1421,The application suffers from csrf which may lead to sensitive data leaks.,5.9,Medium
+CVE-2023-1422,The application suffers from directory traversal which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1423,The application suffers from spoofing which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1424,The application suffers from bypass which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1425,The application suffers from spoofing which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1426,A minor issue related to deprecated algorithm was discovered.,1.1,Low
+CVE-2023-1427,The application suffers from directory traversal which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1428,A minor issue related to version exposure was discovered.,2.3,Low
+CVE-2023-1429,An attacker can exploit a dos vulnerability to compromise the system.,7.7,High
+CVE-2023-1430,The application suffers from information disclosure which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1431,The application suffers from bypass which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1432,A vulnerability allows root privilege via crafted payload.,9.5,Critical
+CVE-2023-1433,The application suffers from csrf which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1434,The application suffers from directory traversal which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1435,A minor issue related to version exposure was discovered.,2.0,Low
+CVE-2023-1436,A minor issue related to version exposure was discovered.,1.2,Low
+CVE-2023-1437,A minor issue related to minor ui bug was discovered.,3.0,Low
+CVE-2023-1438,A minor issue related to version exposure was discovered.,3.8,Low
+CVE-2023-1439,The application suffers from csrf which may lead to sensitive data leaks.,5.0,Medium
+CVE-2023-1440,The application suffers from spoofing which may lead to sensitive data leaks.,6.6,Medium
+CVE-2023-1441,A vulnerability allows rce via crafted payload.,9.2,Critical
+CVE-2023-1442,A minor issue related to complex setup was discovered.,1.9,Low
+CVE-2023-1443,The application suffers from csrf which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1444,The application suffers from spoofing which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1445,"A vulnerability allows unauthenticated via crafted payload. However, it requires physical access and user interaction.",8.2,Low
+CVE-2023-1446,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.6,High
+CVE-2023-1447,"The application suffers from bypass which may lead to sensitive data leaks. However, it requires physical access and user interaction.",8.7,Low
+CVE-2023-1448,A minor issue related to complex setup was discovered.,1.7,Low
+CVE-2023-1449,The application suffers from spoofing which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1450,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.5,High
+CVE-2023-1451,A minor issue related to deprecated algorithm was discovered.,1.8,Low
+CVE-2023-1452,A vulnerability allows remote code execution via crafted payload.,10.0,Critical
+CVE-2023-1453,A minor issue related to complex setup was discovered.,3.7,Low
+CVE-2023-1454,The application suffers from spoofing which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1455,An attacker can exploit a dos vulnerability to compromise the system.,8.6,High
+CVE-2023-1456,A vulnerability allows default password via crafted payload.,9.5,Critical
+CVE-2023-1457,The application suffers from bypass which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1458,The application suffers from spoofing which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1459,A minor issue related to version exposure was discovered.,1.2,Low
+CVE-2023-1460,The application suffers from bypass which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1461,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.1,High
+CVE-2023-1462,The application suffers from spoofing which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1463,An attacker can exploit a denial of service vulnerability to compromise the system.,7.5,High
+CVE-2023-1464,The application suffers from spoofing which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1465,A minor issue related to version exposure was discovered.,1.2,Low
+CVE-2023-1466,An attacker can exploit a xss vulnerability to compromise the system.,7.8,High
+CVE-2023-1467,The application suffers from spoofing which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1468,A minor issue related to complex setup was discovered.,1.2,Low
+CVE-2023-1469,A vulnerability allows sql injection via crafted payload.,9.6,Critical
+CVE-2023-1470,The application suffers from csrf which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1471,A minor issue related to minor ui bug was discovered.,1.4,Low
+CVE-2023-1472,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.4,High
+CVE-2023-1473,A vulnerability allows unauthenticated via crafted payload.,9.4,Critical
+CVE-2023-1474,"An attacker can exploit a denial of service vulnerability to compromise the system. However, it requires physical access and user interaction.",7.4,Low
+CVE-2023-1475,The application suffers from information disclosure which may lead to sensitive data leaks.,5.3,Medium
+CVE-2023-1476,The application suffers from bypass which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1477,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.8,High
+CVE-2023-1478,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.7,High
+CVE-2023-1479,The application suffers from information disclosure which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1480,A vulnerability allows rce via crafted payload.,9.3,Critical
+CVE-2023-1481,The application suffers from bypass which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1482,The application suffers from spoofing which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1483,A minor issue related to deprecated algorithm was discovered.,2.4,Low
+CVE-2023-1484,The application suffers from bypass which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1485,A vulnerability allows remote code execution via crafted payload.,9.4,Critical
+CVE-2023-1486,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.4,High
+CVE-2023-1487,A vulnerability allows sql injection via crafted payload.,9.4,Critical
+CVE-2023-1488,A minor issue related to version exposure was discovered.,2.6,Low
+CVE-2023-1489,The application suffers from directory traversal which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1490,A minor issue related to complex setup was discovered.,1.4,Low
+CVE-2023-1491,The application suffers from bypass which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1492,A vulnerability allows rce via crafted payload.,9.0,Critical
+CVE-2023-1493,The application suffers from directory traversal which may lead to sensitive data leaks.,5.0,Medium
+CVE-2023-1494,A minor issue related to complex setup was discovered.,2.1,Low
+CVE-2023-1495,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.6,High
+CVE-2023-1496,The application suffers from csrf which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1497,The application suffers from directory traversal which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1498,The application suffers from csrf which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1499,The application suffers from csrf which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1500,A minor issue related to local access was discovered.,2.0,Low
+CVE-2023-1501,An attacker can exploit a xss vulnerability to compromise the system.,8.8,High
+CVE-2023-1502,A minor issue related to local access was discovered.,2.3,Low
+CVE-2023-1503,An attacker can exploit a denial of service vulnerability to compromise the system.,8.4,High
+CVE-2023-1504,The application suffers from csrf which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1505,The application suffers from spoofing which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1506,A minor issue related to local access was discovered.,3.2,Low
+CVE-2023-1507,A minor issue related to local access was discovered.,1.7,Low
+CVE-2023-1508,"A minor issue related to version exposure was discovered. However, it requires physical access and user interaction.",8.7,Low
+CVE-2023-1509,A vulnerability allows remote code execution via crafted payload.,9.4,Critical
+CVE-2023-1510,The application suffers from directory traversal which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1511,A vulnerability allows unauthenticated via crafted payload.,9.9,Critical
+CVE-2023-1512,The application suffers from csrf which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1513,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.3,High
+CVE-2023-1514,A minor issue related to version exposure was discovered.,2.8,Low
+CVE-2023-1515,A minor issue related to minor ui bug was discovered.,2.6,Low
+CVE-2023-1516,A minor issue related to complex setup was discovered.,2.0,Low
+CVE-2023-1517,An attacker can exploit a denial of service vulnerability to compromise the system.,8.0,High
+CVE-2023-1518,A minor issue related to minor ui bug was discovered.,3.4,Low
+CVE-2023-1519,An attacker can exploit a dos vulnerability to compromise the system.,8.2,High
+CVE-2023-1520,The application suffers from directory traversal which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1521,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.2,High
+CVE-2023-1522,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.8,High
+CVE-2023-1523,A minor issue related to local access was discovered.,2.6,Low
+CVE-2023-1524,The application suffers from directory traversal which may lead to sensitive data leaks.,5.0,Medium
+CVE-2023-1525,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.4,High
+CVE-2023-1526,A minor issue related to local access was discovered.,1.8,Low
+CVE-2023-1527,The application suffers from bypass which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1528,A minor issue related to local access was discovered.,3.8,Low
+CVE-2023-1529,An attacker can exploit a denial of service vulnerability to compromise the system.,8.4,High
+CVE-2023-1530,The application suffers from csrf which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1531,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.9,High
+CVE-2023-1532,An attacker can exploit a dos vulnerability to compromise the system.,8.5,High
+CVE-2023-1533,The application suffers from spoofing which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1534,A vulnerability allows rce via crafted payload.,9.1,Critical
+CVE-2023-1535,A vulnerability allows remote code execution via crafted payload.,9.3,Critical
+CVE-2023-1536,The application suffers from spoofing which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1537,The application suffers from csrf which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1538,An attacker can exploit a xss vulnerability to compromise the system.,8.4,High
+CVE-2023-1539,A vulnerability allows root privilege via crafted payload.,9.7,Critical
+CVE-2023-1540,A vulnerability allows remote code execution via crafted payload.,9.2,Critical
+CVE-2023-1541,The application suffers from bypass which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1542,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.8,High
+CVE-2023-1543,The application suffers from csrf which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1544,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.8,High
+CVE-2023-1545,A minor issue related to deprecated algorithm was discovered.,1.5,Low
+CVE-2023-1546,"The application suffers from spoofing which may lead to sensitive data leaks. However, it requires physical access and user interaction.",9.5,Low
+CVE-2023-1547,The application suffers from csrf which may lead to sensitive data leaks.,4.7,Medium
+CVE-2023-1548,"An attacker can exploit a buffer overflow vulnerability to compromise the system. However, it requires physical access and user interaction.",8.2,Low
+CVE-2023-1549,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.8,High
+CVE-2023-1550,The application suffers from spoofing which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1551,A minor issue related to complex setup was discovered.,3.6,Low
+CVE-2023-1552,A minor issue related to minor ui bug was discovered.,3.8,Low
+CVE-2023-1553,The application suffers from information disclosure which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1554,The application suffers from spoofing which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1555,An attacker can exploit a xss vulnerability to compromise the system.,7.1,High
+CVE-2023-1556,A vulnerability allows sql injection via crafted payload.,10.0,Critical
+CVE-2023-1557,The application suffers from information disclosure which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1558,An attacker can exploit a dos vulnerability to compromise the system.,8.3,High
+CVE-2023-1559,An attacker can exploit a denial of service vulnerability to compromise the system.,8.2,High
+CVE-2023-1560,The application suffers from csrf which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1561,The application suffers from bypass which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1562,The application suffers from csrf which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1563,A vulnerability allows remote code execution via crafted payload.,9.0,Critical
+CVE-2023-1564,The application suffers from csrf which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1565,A minor issue related to deprecated algorithm was discovered.,2.2,Low
+CVE-2023-1566,A vulnerability allows default password via crafted payload.,9.2,Critical
+CVE-2023-1567,A minor issue related to minor ui bug was discovered.,1.9,Low
+CVE-2023-1568,The application suffers from directory traversal which may lead to sensitive data leaks.,4.4,Medium
+CVE-2023-1569,A vulnerability allows unauthenticated via crafted payload.,9.7,Critical
+CVE-2023-1570,The application suffers from spoofing which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1571,The application suffers from directory traversal which may lead to sensitive data leaks.,6.6,Medium
+CVE-2023-1572,The application suffers from spoofing which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1573,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.3,High
+CVE-2023-1574,The application suffers from directory traversal which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1575,"An attacker can exploit a dos vulnerability to compromise the system. However, it requires physical access and user interaction.",8.8,Low
+CVE-2023-1576,A minor issue related to local access was discovered.,3.0,Low
+CVE-2023-1577,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.9,High
+CVE-2023-1578,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.8,High
+CVE-2023-1579,The application suffers from directory traversal which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1580,The application suffers from csrf which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1581,The application suffers from spoofing which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1582,A vulnerability allows rce via crafted payload.,9.1,Critical
+CVE-2023-1583,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.6,High
+CVE-2023-1584,The application suffers from bypass which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1585,An attacker can exploit a dos vulnerability to compromise the system.,8.4,High
+CVE-2023-1586,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.6,High
+CVE-2023-1587,The application suffers from information disclosure which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1588,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.4,High
+CVE-2023-1589,A minor issue related to complex setup was discovered.,1.6,Low
+CVE-2023-1590,The application suffers from spoofing which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1591,The application suffers from directory traversal which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1592,The application suffers from csrf which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1593,A minor issue related to complex setup was discovered.,1.0,Low
+CVE-2023-1594,A vulnerability allows root privilege via crafted payload.,9.3,Critical
+CVE-2023-1595,The application suffers from information disclosure which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1596,A minor issue related to version exposure was discovered.,3.0,Low
+CVE-2023-1597,The application suffers from spoofing which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1598,A minor issue related to deprecated algorithm was discovered.,2.1,Low
+CVE-2023-1599,The application suffers from information disclosure which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1600,An attacker can exploit a xss vulnerability to compromise the system.,8.1,High
+CVE-2023-1601,The application suffers from information disclosure which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1602,The application suffers from information disclosure which may lead to sensitive data leaks.,4.0,Medium
+CVE-2023-1603,"An attacker can exploit a dos vulnerability to compromise the system. However, it requires physical access and user interaction.",9.4,Low
+CVE-2023-1604,A vulnerability allows rce via crafted payload.,9.4,Critical
+CVE-2023-1605,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.3,High
+CVE-2023-1606,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.3,High
+CVE-2023-1607,The application suffers from spoofing which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1608,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.3,High
+CVE-2023-1609,The application suffers from information disclosure which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1610,An attacker can exploit a dos vulnerability to compromise the system.,8.5,High
+CVE-2023-1611,A minor issue related to local access was discovered.,2.2,Low
+CVE-2023-1612,A minor issue related to complex setup was discovered.,2.2,Low
+CVE-2023-1613,A vulnerability allows root privilege via crafted payload.,9.6,Critical
+CVE-2023-1614,The application suffers from information disclosure which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1615,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.6,High
+CVE-2023-1616,A minor issue related to version exposure was discovered.,1.5,Low
+CVE-2023-1617,A vulnerability allows sql injection via crafted payload.,9.4,Critical
+CVE-2023-1618,A vulnerability allows unauthenticated via crafted payload.,9.5,Critical
+CVE-2023-1619,A minor issue related to minor ui bug was discovered.,1.5,Low
+CVE-2023-1620,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.5,High
+CVE-2023-1621,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.3,High
+CVE-2023-1622,A minor issue related to complex setup was discovered.,1.5,Low
+CVE-2023-1623,An attacker can exploit a denial of service vulnerability to compromise the system.,8.7,High
+CVE-2023-1624,The application suffers from spoofing which may lead to sensitive data leaks.,4.7,Medium
+CVE-2023-1625,A vulnerability allows remote code execution via crafted payload.,9.4,Critical
+CVE-2023-1626,"The application suffers from directory traversal which may lead to sensitive data leaks. However, it requires physical access and user interaction.",7.7,Low
+CVE-2023-1627,A minor issue related to version exposure was discovered.,1.4,Low
+CVE-2023-1628,The application suffers from csrf which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1629,A minor issue related to local access was discovered.,3.6,Low
+CVE-2023-1630,The application suffers from csrf which may lead to sensitive data leaks.,6.6,Medium
+CVE-2023-1631,A minor issue related to complex setup was discovered.,1.5,Low
+CVE-2023-1632,The application suffers from spoofing which may lead to sensitive data leaks.,5.3,Medium
+CVE-2023-1633,A minor issue related to local access was discovered.,3.2,Low
+CVE-2023-1634,The application suffers from csrf which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1635,A minor issue related to version exposure was discovered.,2.7,Low
+CVE-2023-1636,The application suffers from spoofing which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1637,The application suffers from spoofing which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1638,The application suffers from bypass which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1639,The application suffers from directory traversal which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1640,The application suffers from spoofing which may lead to sensitive data leaks.,4.7,Medium
+CVE-2023-1641,A vulnerability allows unauthenticated via crafted payload.,9.0,Critical
+CVE-2023-1642,The application suffers from spoofing which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1643,The application suffers from csrf which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1644,The application suffers from directory traversal which may lead to sensitive data leaks.,5.3,Medium
+CVE-2023-1645,An attacker can exploit a xss vulnerability to compromise the system.,7.4,High
+CVE-2023-1646,A minor issue related to complex setup was discovered.,1.0,Low
+CVE-2023-1647,The application suffers from bypass which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1648,The application suffers from csrf which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1649,The application suffers from information disclosure which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1650,A minor issue related to deprecated algorithm was discovered.,2.9,Low
+CVE-2023-1651,A vulnerability allows root privilege via crafted payload.,9.3,Critical
+CVE-2023-1652,The application suffers from directory traversal which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1653,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.4,High
+CVE-2023-1654,A minor issue related to deprecated algorithm was discovered.,1.6,Low
+CVE-2023-1655,A minor issue related to complex setup was discovered.,1.5,Low
+CVE-2023-1656,A minor issue related to minor ui bug was discovered.,1.6,Low
+CVE-2023-1657,The application suffers from information disclosure which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1658,An attacker can exploit a denial of service vulnerability to compromise the system.,7.8,High
+CVE-2023-1659,"An attacker can exploit a denial of service vulnerability to compromise the system. However, it requires physical access and user interaction.",8.0,Low
+CVE-2023-1660,A minor issue related to version exposure was discovered.,2.4,Low
+CVE-2023-1661,An attacker can exploit a xss vulnerability to compromise the system.,7.2,High
+CVE-2023-1662,A minor issue related to complex setup was discovered.,2.0,Low
+CVE-2023-1663,An attacker can exploit a dos vulnerability to compromise the system.,7.7,High
+CVE-2023-1664,The application suffers from csrf which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1665,A vulnerability allows root privilege via crafted payload.,9.4,Critical
+CVE-2023-1666,A minor issue related to deprecated algorithm was discovered.,2.1,Low
+CVE-2023-1667,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.1,High
+CVE-2023-1668,The application suffers from csrf which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1669,The application suffers from csrf which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1670,A vulnerability allows remote code execution via crafted payload.,9.2,Critical
+CVE-2023-1671,An attacker can exploit a denial of service vulnerability to compromise the system.,8.7,High
+CVE-2023-1672,The application suffers from directory traversal which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1673,"A minor issue related to complex setup was discovered. However, it requires physical access and user interaction.",7.9,Low
+CVE-2023-1674,A vulnerability allows sql injection via crafted payload.,9.3,Critical
+CVE-2023-1675,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.5,High
+CVE-2023-1676,The application suffers from bypass which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1677,A vulnerability allows root privilege via crafted payload.,9.7,Critical
+CVE-2023-1678,An attacker can exploit a xss vulnerability to compromise the system.,8.8,High
+CVE-2023-1679,An attacker can exploit a xss vulnerability to compromise the system.,8.6,High
+CVE-2023-1680,The application suffers from directory traversal which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1681,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.2,High
+CVE-2023-1682,The application suffers from bypass which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1683,An attacker can exploit a dos vulnerability to compromise the system.,8.1,High
+CVE-2023-1684,A minor issue related to deprecated algorithm was discovered.,1.2,Low
+CVE-2023-1685,An attacker can exploit a denial of service vulnerability to compromise the system.,8.7,High
+CVE-2023-1686,A minor issue related to version exposure was discovered.,2.2,Low
+CVE-2023-1687,"A vulnerability allows rce via crafted payload. However, it requires physical access and user interaction.",7.6,Low
+CVE-2023-1688,An attacker can exploit a dos vulnerability to compromise the system.,7.2,High
+CVE-2023-1689,A minor issue related to minor ui bug was discovered.,2.4,Low
+CVE-2023-1690,A vulnerability allows rce via crafted payload.,9.5,Critical
+CVE-2023-1691,A vulnerability allows unauthenticated via crafted payload.,9.1,Critical
+CVE-2023-1692,The application suffers from directory traversal which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1693,A vulnerability allows sql injection via crafted payload.,10.0,Critical
+CVE-2023-1694,The application suffers from information disclosure which may lead to sensitive data leaks.,5.6,Medium
+CVE-2023-1695,The application suffers from information disclosure which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1696,A minor issue related to local access was discovered.,2.4,Low
+CVE-2023-1697,The application suffers from information disclosure which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1698,A minor issue related to complex setup was discovered.,1.5,Low
+CVE-2023-1699,The application suffers from directory traversal which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1700,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.8,High
+CVE-2023-1701,An attacker can exploit a xss vulnerability to compromise the system.,7.6,High
+CVE-2023-1702,A minor issue related to local access was discovered.,1.9,Low
+CVE-2023-1703,The application suffers from information disclosure which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1704,"An attacker can exploit a xss vulnerability to compromise the system. However, it requires physical access and user interaction.",7.5,Low
+CVE-2023-1705,The application suffers from directory traversal which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1706,"The application suffers from csrf which may lead to sensitive data leaks. However, it requires physical access and user interaction.",8.9,Low
+CVE-2023-1707,The application suffers from csrf which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1708,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.5,High
+CVE-2023-1709,An attacker can exploit a denial of service vulnerability to compromise the system.,7.5,High
+CVE-2023-1710,The application suffers from bypass which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1711,A vulnerability allows rce via crafted payload.,9.5,Critical
+CVE-2023-1712,A minor issue related to local access was discovered.,2.8,Low
+CVE-2023-1713,A vulnerability allows rce via crafted payload.,9.1,Critical
+CVE-2023-1714,A minor issue related to deprecated algorithm was discovered.,1.3,Low
+CVE-2023-1715,The application suffers from information disclosure which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1716,A minor issue related to deprecated algorithm was discovered.,1.4,Low
+CVE-2023-1717,A vulnerability allows remote code execution via crafted payload.,9.5,Critical
+CVE-2023-1718,A minor issue related to complex setup was discovered.,3.5,Low
+CVE-2023-1719,An attacker can exploit a xss vulnerability to compromise the system.,7.3,High
+CVE-2023-1720,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.8,High
+CVE-2023-1721,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.8,High
+CVE-2023-1722,An attacker can exploit a dos vulnerability to compromise the system.,8.7,High
+CVE-2023-1723,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.1,High
+CVE-2023-1724,The application suffers from csrf which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1725,A vulnerability allows sql injection via crafted payload.,9.9,Critical
+CVE-2023-1726,A minor issue related to minor ui bug was discovered.,2.7,Low
+CVE-2023-1727,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.4,High
+CVE-2023-1728,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.4,High
+CVE-2023-1729,A vulnerability allows rce via crafted payload.,9.4,Critical
+CVE-2023-1730,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.2,High
+CVE-2023-1731,A vulnerability allows rce via crafted payload.,9.3,Critical
+CVE-2023-1732,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.1,High
+CVE-2023-1733,The application suffers from directory traversal which may lead to sensitive data leaks.,5.6,Medium
+CVE-2023-1734,A vulnerability allows remote code execution via crafted payload.,10.0,Critical
+CVE-2023-1735,An attacker can exploit a xss vulnerability to compromise the system.,8.6,High
+CVE-2023-1736,A minor issue related to complex setup was discovered.,1.7,Low
+CVE-2023-1737,An attacker can exploit a dos vulnerability to compromise the system.,8.0,High
+CVE-2023-1738,The application suffers from information disclosure which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1739,A vulnerability allows default password via crafted payload.,9.2,Critical
+CVE-2023-1740,The application suffers from directory traversal which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1741,A minor issue related to complex setup was discovered.,1.4,Low
+CVE-2023-1742,A minor issue related to complex setup was discovered.,1.3,Low
+CVE-2023-1743,An attacker can exploit a xss vulnerability to compromise the system.,8.6,High
+CVE-2023-1744,A minor issue related to deprecated algorithm was discovered.,2.4,Low
+CVE-2023-1745,The application suffers from information disclosure which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1746,An attacker can exploit a xss vulnerability to compromise the system.,7.6,High
+CVE-2023-1747,A vulnerability allows root privilege via crafted payload.,9.6,Critical
+CVE-2023-1748,The application suffers from bypass which may lead to sensitive data leaks.,5.9,Medium
+CVE-2023-1749,The application suffers from spoofing which may lead to sensitive data leaks.,6.0,Medium
+CVE-2023-1750,A minor issue related to minor ui bug was discovered.,1.8,Low
+CVE-2023-1751,The application suffers from bypass which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1752,A minor issue related to version exposure was discovered.,2.6,Low
+CVE-2023-1753,The application suffers from csrf which may lead to sensitive data leaks.,4.8,Medium
+CVE-2023-1754,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.2,High
+CVE-2023-1755,The application suffers from spoofing which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1756,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.2,High
+CVE-2023-1757,The application suffers from directory traversal which may lead to sensitive data leaks.,4.7,Medium
+CVE-2023-1758,The application suffers from spoofing which may lead to sensitive data leaks.,5.6,Medium
+CVE-2023-1759,A minor issue related to version exposure was discovered.,2.3,Low
+CVE-2023-1760,The application suffers from spoofing which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1761,The application suffers from csrf which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1762,A minor issue related to deprecated algorithm was discovered.,3.3,Low
+CVE-2023-1763,"The application suffers from csrf which may lead to sensitive data leaks. However, it requires physical access and user interaction.",7.9,Low
+CVE-2023-1764,A vulnerability allows unauthenticated via crafted payload.,9.6,Critical
+CVE-2023-1765,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.5,High
+CVE-2023-1766,A vulnerability allows default password via crafted payload.,9.3,Critical
+CVE-2023-1767,A vulnerability allows sql injection via crafted payload.,9.7,Critical
+CVE-2023-1768,The application suffers from directory traversal which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1769,A minor issue related to deprecated algorithm was discovered.,2.5,Low
+CVE-2023-1770,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.2,High
+CVE-2023-1771,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.0,High
+CVE-2023-1772,A minor issue related to local access was discovered.,3.8,Low
+CVE-2023-1773,An attacker can exploit a xss vulnerability to compromise the system.,7.4,High
+CVE-2023-1774,The application suffers from spoofing which may lead to sensitive data leaks.,5.0,Medium
+CVE-2023-1775,A vulnerability allows sql injection via crafted payload.,9.3,Critical
+CVE-2023-1776,A minor issue related to complex setup was discovered.,3.1,Low
+CVE-2023-1777,The application suffers from bypass which may lead to sensitive data leaks.,6.9,Medium
+CVE-2023-1778,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.2,High
+CVE-2023-1779,An attacker can exploit a denial of service vulnerability to compromise the system.,7.5,High
+CVE-2023-1780,An attacker can exploit a dos vulnerability to compromise the system.,8.5,High
+CVE-2023-1781,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.0,High
+CVE-2023-1782,An attacker can exploit a dos vulnerability to compromise the system.,8.7,High
+CVE-2023-1783,The application suffers from information disclosure which may lead to sensitive data leaks.,6.6,Medium
+CVE-2023-1784,A minor issue related to deprecated algorithm was discovered.,2.1,Low
+CVE-2023-1785,"An attacker can exploit a dos vulnerability to compromise the system. However, it requires physical access and user interaction.",7.4,Low
+CVE-2023-1786,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.0,High
+CVE-2023-1787,The application suffers from directory traversal which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1788,The application suffers from bypass which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1789,A minor issue related to deprecated algorithm was discovered.,2.8,Low
+CVE-2023-1790,The application suffers from directory traversal which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1791,A minor issue related to version exposure was discovered.,3.0,Low
+CVE-2023-1792,The application suffers from information disclosure which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1793,A minor issue related to deprecated algorithm was discovered.,2.5,Low
+CVE-2023-1794,A vulnerability allows remote code execution via crafted payload.,9.9,Critical
+CVE-2023-1795,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.9,High
+CVE-2023-1796,"The application suffers from csrf which may lead to sensitive data leaks. However, it requires physical access and user interaction.",9.7,Low
+CVE-2023-1797,The application suffers from csrf which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1798,"A vulnerability allows root privilege via crafted payload. However, it requires physical access and user interaction.",8.6,Low
+CVE-2023-1799,A vulnerability allows root privilege via crafted payload.,9.4,Critical
+CVE-2023-1800,The application suffers from spoofing which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1801,An attacker can exploit a denial of service vulnerability to compromise the system.,8.6,High
+CVE-2023-1802,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.3,High
+CVE-2023-1803,The application suffers from directory traversal which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1804,"A vulnerability allows sql injection via crafted payload. However, it requires physical access and user interaction.",7.7,Low
+CVE-2023-1805,A vulnerability allows sql injection via crafted payload.,9.3,Critical
+CVE-2023-1806,The application suffers from csrf which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1807,A vulnerability allows unauthenticated via crafted payload.,9.4,Critical
+CVE-2023-1808,The application suffers from bypass which may lead to sensitive data leaks.,5.9,Medium
+CVE-2023-1809,An attacker can exploit a buffer overflow vulnerability to compromise the system.,7.5,High
+CVE-2023-1810,A vulnerability allows default password via crafted payload.,9.1,Critical
+CVE-2023-1811,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.1,High
+CVE-2023-1812,An attacker can exploit a dos vulnerability to compromise the system.,8.2,High
+CVE-2023-1813,A vulnerability allows sql injection via crafted payload.,9.1,Critical
+CVE-2023-1814,The application suffers from bypass which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1815,The application suffers from directory traversal which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1816,An attacker can exploit a denial of service vulnerability to compromise the system.,7.1,High
+CVE-2023-1817,A minor issue related to local access was discovered.,1.3,Low
+CVE-2023-1818,A vulnerability allows root privilege via crafted payload.,9.6,Critical
+CVE-2023-1819,An attacker can exploit a xss vulnerability to compromise the system.,7.6,High
+CVE-2023-1820,An attacker can exploit a denial of service vulnerability to compromise the system.,7.2,High
+CVE-2023-1821,The application suffers from csrf which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1822,A minor issue related to deprecated algorithm was discovered.,1.4,Low
+CVE-2023-1823,A vulnerability allows unauthenticated via crafted payload.,9.2,Critical
+CVE-2023-1824,A vulnerability allows rce via crafted payload.,9.9,Critical
+CVE-2023-1825,A minor issue related to version exposure was discovered.,1.9,Low
+CVE-2023-1826,The application suffers from csrf which may lead to sensitive data leaks.,6.0,Medium
+CVE-2023-1827,The application suffers from bypass which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1828,A minor issue related to local access was discovered.,1.8,Low
+CVE-2023-1829,A vulnerability allows rce via crafted payload.,9.6,Critical
+CVE-2023-1830,A vulnerability allows unauthenticated via crafted payload.,9.3,Critical
+CVE-2023-1831,A vulnerability allows sql injection via crafted payload.,9.2,Critical
+CVE-2023-1832,A vulnerability allows root privilege via crafted payload.,9.1,Critical
+CVE-2023-1833,The application suffers from directory traversal which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1834,A minor issue related to deprecated algorithm was discovered.,1.0,Low
+CVE-2023-1835,The application suffers from information disclosure which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1836,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.4,High
+CVE-2023-1837,A minor issue related to minor ui bug was discovered.,1.6,Low
+CVE-2023-1838,An attacker can exploit a dos vulnerability to compromise the system.,8.2,High
+CVE-2023-1839,The application suffers from csrf which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1840,A minor issue related to deprecated algorithm was discovered.,1.6,Low
+CVE-2023-1841,A vulnerability allows remote code execution via crafted payload.,9.0,Critical
+CVE-2023-1842,A vulnerability allows unauthenticated via crafted payload.,9.2,Critical
+CVE-2023-1843,A minor issue related to local access was discovered.,2.2,Low
+CVE-2023-1844,A minor issue related to minor ui bug was discovered.,1.2,Low
+CVE-2023-1845,The application suffers from information disclosure which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1846,"The application suffers from csrf which may lead to sensitive data leaks. However, it requires physical access and user interaction.",8.0,Low
+CVE-2023-1847,The application suffers from csrf which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1848,An attacker can exploit a xss vulnerability to compromise the system.,8.0,High
+CVE-2023-1849,The application suffers from directory traversal which may lead to sensitive data leaks.,6.5,Medium
+CVE-2023-1850,An attacker can exploit a dos vulnerability to compromise the system.,7.1,High
+CVE-2023-1851,The application suffers from csrf which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1852,A minor issue related to complex setup was discovered.,3.9,Low
+CVE-2023-1853,An attacker can exploit a denial of service vulnerability to compromise the system.,8.6,High
+CVE-2023-1854,A vulnerability allows remote code execution via crafted payload.,9.1,Critical
+CVE-2023-1855,The application suffers from directory traversal which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1856,A vulnerability allows rce via crafted payload.,9.3,Critical
+CVE-2023-1857,A vulnerability allows remote code execution via crafted payload.,9.9,Critical
+CVE-2023-1858,A vulnerability allows default password via crafted payload.,9.6,Critical
+CVE-2023-1859,The application suffers from information disclosure which may lead to sensitive data leaks.,4.1,Medium
+CVE-2023-1860,An attacker can exploit a xss vulnerability to compromise the system.,8.8,High
+CVE-2023-1861,A vulnerability allows sql injection via crafted payload.,9.6,Critical
+CVE-2023-1862,The application suffers from information disclosure which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1863,A minor issue related to local access was discovered.,3.6,Low
+CVE-2023-1864,The application suffers from information disclosure which may lead to sensitive data leaks.,6.6,Medium
+CVE-2023-1865,The application suffers from spoofing which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1866,A vulnerability allows rce via crafted payload.,9.6,Critical
+CVE-2023-1867,The application suffers from information disclosure which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1868,A vulnerability allows remote code execution via crafted payload.,9.2,Critical
+CVE-2023-1869,A vulnerability allows remote code execution via crafted payload.,9.8,Critical
+CVE-2023-1870,A minor issue related to local access was discovered.,1.3,Low
+CVE-2023-1871,A minor issue related to complex setup was discovered.,3.0,Low
+CVE-2023-1872,A minor issue related to version exposure was discovered.,3.0,Low
+CVE-2023-1873,A vulnerability allows rce via crafted payload.,9.4,Critical
+CVE-2023-1874,A vulnerability allows remote code execution via crafted payload.,9.3,Critical
+CVE-2023-1875,A vulnerability allows unauthenticated via crafted payload.,9.2,Critical
+CVE-2023-1876,The application suffers from bypass which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1877,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.0,High
+CVE-2023-1878,The application suffers from spoofing which may lead to sensitive data leaks.,4.0,Medium
+CVE-2023-1879,The application suffers from bypass which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1880,The application suffers from csrf which may lead to sensitive data leaks.,4.0,Medium
+CVE-2023-1881,The application suffers from information disclosure which may lead to sensitive data leaks.,4.7,Medium
+CVE-2023-1882,A vulnerability allows sql injection via crafted payload.,9.4,Critical
+CVE-2023-1883,A minor issue related to local access was discovered.,1.2,Low
+CVE-2023-1884,The application suffers from information disclosure which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1885,The application suffers from spoofing which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1886,The application suffers from information disclosure which may lead to sensitive data leaks.,6.6,Medium
+CVE-2023-1887,The application suffers from directory traversal which may lead to sensitive data leaks.,5.2,Medium
+CVE-2023-1888,The application suffers from bypass which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1889,The application suffers from spoofing which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1890,A vulnerability allows root privilege via crafted payload.,9.1,Critical
+CVE-2023-1891,The application suffers from spoofing which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1892,The application suffers from csrf which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1893,An attacker can exploit a xss vulnerability to compromise the system.,7.5,High
+CVE-2023-1894,The application suffers from csrf which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1895,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.1,High
+CVE-2023-1896,A minor issue related to minor ui bug was discovered.,2.8,Low
+CVE-2023-1897,A minor issue related to version exposure was discovered.,2.1,Low
+CVE-2023-1898,A vulnerability allows rce via crafted payload.,9.6,Critical
+CVE-2023-1899,A minor issue related to deprecated algorithm was discovered.,3.8,Low
+CVE-2023-1900,A vulnerability allows rce via crafted payload.,9.5,Critical
+CVE-2023-1901,The application suffers from bypass which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1902,A minor issue related to deprecated algorithm was discovered.,1.8,Low
+CVE-2023-1903,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.7,High
+CVE-2023-1904,A minor issue related to complex setup was discovered.,3.0,Low
+CVE-2023-1905,"The application suffers from information disclosure which may lead to sensitive data leaks. However, it requires physical access and user interaction.",7.4,Low
+CVE-2023-1906,A vulnerability allows root privilege via crafted payload.,9.6,Critical
+CVE-2023-1907,A minor issue related to deprecated algorithm was discovered.,2.8,Low
+CVE-2023-1908,The application suffers from bypass which may lead to sensitive data leaks.,5.3,Medium
+CVE-2023-1909,A vulnerability allows sql injection via crafted payload.,9.0,Critical
+CVE-2023-1910,A minor issue related to deprecated algorithm was discovered.,1.3,Low
+CVE-2023-1911,A vulnerability allows remote code execution via crafted payload.,9.6,Critical
+CVE-2023-1912,A minor issue related to deprecated algorithm was discovered.,1.9,Low
+CVE-2023-1913,An attacker can exploit a denial of service vulnerability to compromise the system.,8.1,High
+CVE-2023-1914,The application suffers from directory traversal which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1915,A minor issue related to complex setup was discovered.,2.9,Low
+CVE-2023-1916,The application suffers from information disclosure which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1917,The application suffers from bypass which may lead to sensitive data leaks.,5.5,Medium
+CVE-2023-1918,The application suffers from information disclosure which may lead to sensitive data leaks.,5.7,Medium
+CVE-2023-1919,The application suffers from information disclosure which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1920,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.1,High
+CVE-2023-1921,A vulnerability allows sql injection via crafted payload.,9.4,Critical
+CVE-2023-1922,An attacker can exploit a dos vulnerability to compromise the system.,8.4,High
+CVE-2023-1923,A minor issue related to deprecated algorithm was discovered.,2.8,Low
+CVE-2023-1924,"A vulnerability allows remote code execution via crafted payload. However, it requires physical access and user interaction.",9.0,Low
+CVE-2023-1925,A minor issue related to deprecated algorithm was discovered.,1.9,Low
+CVE-2023-1926,The application suffers from information disclosure which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1927,A vulnerability allows remote code execution via crafted payload.,9.2,Critical
+CVE-2023-1928,The application suffers from csrf which may lead to sensitive data leaks.,6.1,Medium
+CVE-2023-1929,An attacker can exploit a buffer overflow vulnerability to compromise the system.,8.5,High
+CVE-2023-1930,The application suffers from directory traversal which may lead to sensitive data leaks.,6.0,Medium
+CVE-2023-1931,A vulnerability allows default password via crafted payload.,9.1,Critical
+CVE-2023-1932,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.3,High
+CVE-2023-1933,The application suffers from information disclosure which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1934,The application suffers from bypass which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1935,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.7,High
+CVE-2023-1936,A minor issue related to deprecated algorithm was discovered.,1.3,Low
+CVE-2023-1937,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,8.4,High
+CVE-2023-1938,A vulnerability allows unauthenticated via crafted payload.,9.6,Critical
+CVE-2023-1939,A minor issue related to local access was discovered.,3.5,Low
+CVE-2023-1940,The application suffers from bypass which may lead to sensitive data leaks.,4.5,Medium
+CVE-2023-1941,A minor issue related to minor ui bug was discovered.,3.3,Low
+CVE-2023-1942,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.4,High
+CVE-2023-1943,The application suffers from directory traversal which may lead to sensitive data leaks.,4.9,Medium
+CVE-2023-1944,The application suffers from directory traversal which may lead to sensitive data leaks.,5.0,Medium
+CVE-2023-1945,The application suffers from spoofing which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1946,The application suffers from bypass which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1947,An attacker can exploit a denial of service vulnerability to compromise the system.,8.7,High
+CVE-2023-1948,The application suffers from spoofing which may lead to sensitive data leaks.,6.4,Medium
+CVE-2023-1949,An attacker can exploit a dos vulnerability to compromise the system.,8.8,High
+CVE-2023-1950,A minor issue related to local access was discovered.,3.8,Low
+CVE-2023-1951,A vulnerability allows root privilege via crafted payload.,9.4,Critical
+CVE-2023-1952,An attacker can exploit a xss vulnerability to compromise the system.,8.3,High
+CVE-2023-1953,A minor issue related to minor ui bug was discovered.,1.9,Low
+CVE-2023-1954,A vulnerability allows rce via crafted payload.,9.2,Critical
+CVE-2023-1955,A minor issue related to version exposure was discovered.,2.7,Low
+CVE-2023-1956,A vulnerability allows rce via crafted payload.,9.8,Critical
+CVE-2023-1957,A vulnerability allows default password via crafted payload.,9.8,Critical
+CVE-2023-1958,An attacker can exploit a dos vulnerability to compromise the system.,7.3,High
+CVE-2023-1959,The application suffers from directory traversal which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1960,A vulnerability allows remote code execution via crafted payload.,9.9,Critical
+CVE-2023-1961,An attacker can exploit a dos vulnerability to compromise the system.,8.6,High
+CVE-2023-1962,A minor issue related to complex setup was discovered.,2.1,Low
+CVE-2023-1963,The application suffers from spoofing which may lead to sensitive data leaks.,6.2,Medium
+CVE-2023-1964,The application suffers from directory traversal which may lead to sensitive data leaks.,4.2,Medium
+CVE-2023-1965,The application suffers from information disclosure which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1966,The application suffers from csrf which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1967,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.7,High
+CVE-2023-1968,The application suffers from directory traversal which may lead to sensitive data leaks.,5.8,Medium
+CVE-2023-1969,The application suffers from directory traversal which may lead to sensitive data leaks.,4.0,Medium
+CVE-2023-1970,A vulnerability allows default password via crafted payload.,10.0,Critical
+CVE-2023-1971,The application suffers from directory traversal which may lead to sensitive data leaks.,5.1,Medium
+CVE-2023-1972,The application suffers from information disclosure which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1973,The application suffers from information disclosure which may lead to sensitive data leaks.,6.6,Medium
+CVE-2023-1974,An attacker can exploit a cross-site scripting vulnerability to compromise the system.,7.8,High
+CVE-2023-1975,A minor issue related to minor ui bug was discovered.,1.9,Low
+CVE-2023-1976,The application suffers from information disclosure which may lead to sensitive data leaks.,4.6,Medium
+CVE-2023-1977,An attacker can exploit a dos vulnerability to compromise the system.,8.0,High
+CVE-2023-1978,The application suffers from spoofing which may lead to sensitive data leaks.,6.8,Medium
+CVE-2023-1979,The application suffers from information disclosure which may lead to sensitive data leaks.,4.7,Medium
+CVE-2023-1980,A vulnerability allows root privilege via crafted payload.,9.5,Critical
+CVE-2023-1981,A vulnerability allows default password via crafted payload.,9.6,Critical
+CVE-2023-1982,A minor issue related to minor ui bug was discovered.,1.7,Low
+CVE-2023-1983,The application suffers from directory traversal which may lead to sensitive data leaks.,6.7,Medium
+CVE-2023-1984,The application suffers from directory traversal which may lead to sensitive data leaks.,5.4,Medium
+CVE-2023-1985,The application suffers from information disclosure which may lead to sensitive data leaks.,4.3,Medium
+CVE-2023-1986,A minor issue related to complex setup was discovered.,2.4,Low
+CVE-2023-1987,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.6,High
+CVE-2023-1988,A vulnerability allows sql injection via crafted payload.,9.3,Critical
+CVE-2023-1989,An attacker can exploit a xss vulnerability to compromise the system.,8.4,High
+CVE-2023-1990,A minor issue related to complex setup was discovered.,1.6,Low
+CVE-2023-1991,A vulnerability allows sql injection via crafted payload.,9.6,Critical
+CVE-2023-1992,The application suffers from spoofing which may lead to sensitive data leaks.,5.3,Medium
+CVE-2023-1993,The application suffers from csrf which may lead to sensitive data leaks.,6.3,Medium
+CVE-2023-1994,An attacker can exploit a privilege escalation vulnerability to compromise the system.,8.5,High
+CVE-2023-1995,A minor issue related to deprecated algorithm was discovered.,1.6,Low
+CVE-2023-1996,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.3,High
+CVE-2023-1997,An attacker can exploit a dos vulnerability to compromise the system.,8.7,High
+CVE-2023-1998,An attacker can exploit a privilege escalation vulnerability to compromise the system.,7.7,High
+CVE-2023-1999,The application suffers from information disclosure which may lead to sensitive data leaks.,4.1,Medium
