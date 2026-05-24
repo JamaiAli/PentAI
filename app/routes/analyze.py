@@ -1,10 +1,11 @@
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Body
 from fastapi.responses import FileResponse
 from typing import List, Dict, Any
 from pydantic import BaseModel
 import os
 from ..services.analyzer import process_and_prioritize_scan
 from ..services.report import generate_pdf_report
+from ..services.nuclei_parser import is_nuclei_format, parse_nuclei_to_pentai
 
 router = APIRouter(tags=["Analyze"])
 
@@ -22,12 +23,22 @@ class ReportRequest(BaseModel):
     vulnerabilities: List[Dict[str, Any]]
 
 @router.post("/analyze")
-def analyze_scan_endpoint(scan_data: ScanReport):
+def analyze_scan_endpoint(scan_data: Any = Body(...)):
     """
     Analyzes a vulnerability scan and returns a prioritized list of vulnerabilities.
+    Supports native PentAI format or direct Nuclei JSON export.
     """
     try:
-        results = process_and_prioritize_scan(scan_data.model_dump())
+        if is_nuclei_format(scan_data):
+            processed_data = parse_nuclei_to_pentai(scan_data)
+        else:
+            # Native format
+            if isinstance(scan_data, dict) and "vulnerabilities" in scan_data:
+                processed_data = scan_data
+            else:
+                raise ValueError("Format invalide: Ni PentAI natif, ni format Nuclei reconnu.")
+                
+        results = process_and_prioritize_scan(processed_data)
         return {
             "status": "success",
             "prioritized_vulnerabilities": results

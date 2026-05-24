@@ -1,0 +1,39 @@
+[
+  {
+    "info": {
+      "name": "PHPUnit Eval-Stdin Remote Code Execution",
+      "author": ["pikpikcu"],
+      "tags": ["cve", "cve2017", "phpunit", "rce"],
+      "reference": [
+        "https://github.com/vulhub/vulhub/tree/master/phpunit/CVE-2017-9841"
+      ],
+      "severity": "critical",
+      "description": "Util/PHP/eval-stdin.php in PHPUnit before 4.8.28 and 5.x before 5.6.3 allows remote attackers to execute arbitrary PHP code via HTTP POST data beginning with a '<?php ' substring, as demonstrated by an attack on a site with an exposed vendor folder.",
+      "classification": {
+        "cve-id": [
+          "CVE-2017-9841"
+        ],
+        "cvss-metrics": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+        "cvss-score": 9.8,
+        "cwe-id": ["CWE-94"]
+      }
+    },
+    "type": "http",
+    "host": "http://testphp.vulnweb.com",
+    "matched-at": "http://testphp.vulnweb.com/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php",
+    "template-id": "CVE-2017-9841"
+  },
+  {
+    "info": {
+      "name": "Missing Strict-Transport-Security Header",
+      "author": ["pdteam"],
+      "tags": ["misconfig", "hsts"],
+      "severity": "info",
+      "description": "The site does not enforce HSTS, which could allow man-in-the-middle attacks to intercept traffic."
+    },
+    "type": "http",
+    "host": "http://testphp.vulnweb.com",
+    "matched-at": "http://testphp.vulnweb.com",
+    "template-id": "missing-hsts"
+  }
+]
