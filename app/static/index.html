@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PentAI - Vulnerability Intelligence</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-effects">
+        <div class="glow-orb"></div>
+        <div class="glow-orb secondary"></div>
+    </div>
+
+    <header>
+        <div class="logo">Pent<span>AI</span></div>
+        <p>Intelligent Vulnerability Prioritization Dashboard</p>
+    </header>
+
+    <main>
+        <section class="upload-section">
+            <div class="dropzone" id="dropzone">
+                <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+                <h3>Upload Scan Report</h3>
+                <p>Drag and drop your JSON scan file here</p>
+                <input type="file" id="file-input" accept=".json" hidden>
+            </div>
+            <div class="demo-actions">
+                <span>or</span>
+                <button id="demo-btn" class="btn primary">Load Sample Scan</button>
+            </div>
+        </section>
+
+        <section class="results-section hidden" id="results-section">
+            <div class="results-header">
+                <h2>Analysis Results</h2>
+                <div class="stats" id="stats-container">
+                    <!-- Stats injected here -->
+                </div>
+                <div class="report-actions" style="display: flex; gap: 1rem; margin-left: auto;">
+                    <button id="download-fr-btn" class="btn" style="background: var(--bg-card); border: 1px solid var(--border-color); color: var(--text-main);">📄 PDF (FR)</button>
+                    <button id="download-en-btn" class="btn" style="background: var(--bg-card); border: 1px solid var(--border-color); color: var(--text-main);">📄 PDF (EN)</button>
+                </div>
+            </div>
+            <div class="vulnerabilities-grid" id="vulnerabilities-grid">
+                <!-- Cards injected here -->
+            </div>
+        </section>
+        
+        <div class="loading-overlay hidden" id="loading">
+            <div class="spinner"></div>
+            <p>Analyzing vulnerabilities with Machine Learning...</p>
+        </div>
+    </main>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

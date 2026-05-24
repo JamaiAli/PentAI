@@ -6,3 +6,6 @@ numpy
 python-dotenv
 pytest
 jupyterlab
+fpdf2
+deep-translator
+sentence-transformers

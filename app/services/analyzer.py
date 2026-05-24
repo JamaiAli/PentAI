@@ -1,6 +1,7 @@
 from typing import Dict, Any
 from .parser import extract_features
-from ..model.predict import predict_criticality
+from ..model.predict import predict_severity
+from .cti_feed import load_kev_catalog
 
 def process_and_prioritize_scan(scan_data: Dict[str, Any]) -> list:
     """
@@ -10,22 +11,32 @@ def process_and_prioritize_scan(scan_data: Dict[str, Any]) -> list:
     vulnerabilities = scan_data.get("vulnerabilities", [])
     prioritized = []
     
+    # 1. Chargement du catalogue CTI
+    kev_set = load_kev_catalog()
+    
     for vuln in vulnerabilities:
         # Extract features for prediction
         cve_id, description, cvss_score = extract_features(vuln)
         
-        # Predict Criticality
-        criticality = predict_criticality(description, cvss_score)
+        # Predict Criticality via AI
+        criticality = predict_severity(description, cvss_score)
+        
+        # 2. Surcharge CTI (Threat Intelligence)
+        is_kev = cve_id in kev_set
+        if is_kev:
+            criticality = "Critical"  # Force au maximum
         
         prioritized.append({
             "cve_id": cve_id,
             "description": description,
             "cvss_score": cvss_score,
-            "predicted_criticality": criticality
+            "predicted_criticality": criticality,
+            "is_kev": is_kev
         })
         
-    # Sort by criticality manually (Critical first, High, Medium, Low)
+    # Sort by criticality manually
     severity_rank = {"Critical": 4, "High": 3, "Medium": 2, "Low": 1}
-    prioritized.sort(key=lambda x: severity_rank.get(x["predicted_criticality"], 0), reverse=True)
+    # Second critère de tri : Les vulnérabilités KEV passent avant les autres Critical
+    prioritized.sort(key=lambda x: (severity_rank.get(x["predicted_criticality"], 0), x["is_kev"]), reverse=True)
     
     return prioritized
